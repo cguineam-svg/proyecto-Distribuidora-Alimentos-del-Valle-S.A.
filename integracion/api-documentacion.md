@@ -92,7 +92,7 @@ Content-Type: application/json
 ```
 ---
 ## Colección Postman
-Disponible en: integracion/postman-collection.json
+Disponible en: **[integracion/postman-collection.json]**
 
 Notas importantes:
 
