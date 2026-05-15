@@ -23,7 +23,7 @@ Implementación de un **Sistema ERP basado en ERPNext (Frappe Framework)** para 
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **ERP**: ERPNext (Frappe Framework)
 - **Business Intelligence**: Apache Superset
