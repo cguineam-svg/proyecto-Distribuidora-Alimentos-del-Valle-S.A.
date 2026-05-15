@@ -96,6 +96,8 @@ Credenciales de Acceso Demo
 
 Troubleshooting Común
 
-#Puerto en uso → sudo killall redis-server
-#Error de conexión Superset → Usar host.docker.internal:3306
-#Comando bench no encontrado → source ~/frappe-env/bin/activate
+Puerto en uso → sudo killall redis-server
+
+Error de conexión Superset → Usar host.docker.internal:3306
+
+Comando bench no encontrado → source ~/frappe-env/bin/activate
