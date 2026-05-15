@@ -93,7 +93,8 @@ Content-Type: application/json
 ---
 ## Colección Postman
 Disponible en: [Colección Postman](integracion/postman-collection.json)
-Notas importantes:
+
+## Notas importantes:
 
 * Todos los endpoints respetan los permisos del usuario autenticado.
 * Se recomienda usar Token Authentication para integraciones externas.
