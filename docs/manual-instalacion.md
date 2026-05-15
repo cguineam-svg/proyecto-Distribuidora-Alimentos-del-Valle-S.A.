@@ -94,6 +94,7 @@ Credenciales de Acceso Demo
 
 <img width="592" height="189" alt="image" src="https://github.com/user-attachments/assets/a0c4dbec-755a-49cf-9ede-0e618e437e48" />
 
+---
 Troubleshooting Común
 
 Puerto en uso → sudo killall redis-server
