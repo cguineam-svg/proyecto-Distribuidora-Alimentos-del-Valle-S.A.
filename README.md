@@ -50,8 +50,8 @@ proyecto-Distribuidora-Alimentos-del-Valle-S.A/
 ├── seguridad/               # Backups, políticas y disaster recovery
 ├── screenshots/             # Evidencias del proyecto
 └── README.md
-
- Documentación
+```
+## Documentación Principal
 
 Business Case Ejecutivo
 Arquitectura Técnica
@@ -59,9 +59,11 @@ Manual de Instalación
 Manual de Usuario
 
 
-🔗 Enlace  Importante
-Jira del Proyecto: https://miumg-team-fantasticos.atlassian.net/jira/software/projects/DADVS/boards/37
+Enlaces Importantes
+
+Jira del Proyecto: Timeline DADVS
+
 
 Universidad Mariano Gálvez de Guatemala
 Campus Quetzaltenango – Facultad de Ingeniería en Sistemas
-JUNIO 2026
+Junio 2026
