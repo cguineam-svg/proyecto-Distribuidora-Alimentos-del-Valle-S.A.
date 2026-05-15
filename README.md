@@ -1,4 +1,4 @@
-# 🚀 Distribuidora Alimentos del Valle S.A. - Implementación ERP
+# Distribuidora Alimentos del Valle S.A. - Implementación ERP
 
 ![Status](https://img.shields.io/badge/Status-Fase%201%20Completada-success)
 ![ERPNext](https://img.shields.io/badge/ERP-ERPNext-00A651)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Implementación de un **Sistema ERP basado en ERPNext (Frappe Framework)** para la Distribuidora Alimentos del Valle S.A., con el fin de centralizar la gestión de inventarios, ventas, compras, logística y generar dashboards gerenciales con Apache Superset.
 
@@ -35,7 +35,7 @@ Implementación de un **Sistema ERP basado en ERPNext (Frappe Framework)** para 
 
 ---
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```bash
 distribuidora-alimentos/
