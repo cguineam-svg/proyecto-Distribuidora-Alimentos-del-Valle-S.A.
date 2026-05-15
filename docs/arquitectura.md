@@ -63,7 +63,3 @@ Se utiliza el modelo nativo de ERPNext adaptado al negocio de distribución:
 - Trazabilidad completa de órdenes de venta → despacho → factura → pago
 
 ---
-
-**¿Quieres que te dé ahora el contenido completo de `docs/manual-instalacion.md`?**
-
-Responde **"sí"** o **"siguiente"** para continuar.
