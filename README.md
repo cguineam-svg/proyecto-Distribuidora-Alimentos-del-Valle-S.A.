@@ -1,7 +1,8 @@
 # descripción completa del proyecto
 
 # Tecnologías utilizadas
-ERPNext / Frappe
+● ERPNext / Frappe
+
 ● Sistema Business Intelligence: Apache Superset
 
 ● Sistema WMS: Gestión de Almacenes (Integrado en ERPNext)
