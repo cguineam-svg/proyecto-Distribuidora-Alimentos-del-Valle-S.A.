@@ -92,8 +92,7 @@ Content-Type: application/json
 ```
 ---
 ## Colección Postman
-Disponible en: **[integracion/postman-collection.json]**
-
+Disponible en: **[integracion/postman-collection.json]integracion/postman-collection.json**
 Notas importantes:
 
 * Todos los endpoints respetan los permisos del usuario autenticado.
