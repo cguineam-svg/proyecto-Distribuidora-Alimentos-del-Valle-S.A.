@@ -1,27 +1,48 @@
-# descripción completa del proyecto
+# 🚀 Distribuidora Alimentos del Valle S.A. - Implementación ERP
 
-# Tecnologías utilizadas
-● ERPNext / Frappe
+![Status](https://img.shields.io/badge/Status-Fase%201%20Completada-success)
+![ERPNext](https://img.shields.io/badge/ERP-ERPNext-00A651)
+![Superset](https://img.shields.io/badge/BI-Apache%20Superset-FF4F4F)
+![Universidad Mariano Gálvez](https://img.shields.io/badge/Universidad-Mariano%20Gálvez-blue)
 
-● Sistema Business Intelligence: Apache Superset
+**Proyecto Final - Fase 1**  
+**Actividad 8: Seguimiento y Evaluación de Proyecto Final**
 
-● Sistema WMS: Gestión de Almacenes (Integrado en ERPNext)
+---
 
-● Sistema CRM: Gestión de Relación con Clientes (Módulo ERPNext)
+## 📋 Descripción del Proyecto
 
-# Instrucciones de instalación paso a paso 
+Implementación de un **Sistema ERP basado en ERPNext (Frappe Framework)** para la Distribuidora Alimentos del Valle S.A., con el fin de centralizar la gestión de inventarios, ventas, compras, logística y generar dashboards gerenciales con Apache Superset.
 
-# Credenciales de acceso demo - Endpoints API disponibles
+**Equipo:**
+- Cécily Karina Guinea Mejía
+- Alfredo Joselito Vicente García
+- Hugo Emmanuel Rivera Guzmán
+- Kevin Roberto Lacán
+- Beatríz Vicente Jiménez
 
-# Contribuidores del equipo con roles
-Definición de Roles y Responsabilidades Técnicas.
+---
 
-● Project Manager (Kevin Lacán): Actúa como el facilitador principal del proyecto. Se encargará de liderar al equipo, controlar el presupuesto y asegurar que cumplamos con las entregas en los 35 días que dura el proyecto. Utiliza herramientas de ruta crítica para identificar cuellos de botella antes de que afecten el "Go-Live".
+## 🛠 Tecnologías Utilizadas
 
-● Arquitecto Técnico (Hugo Rivera): Es el responsable del diseño de la infraestructura lógica y física. Su trabajo incluye la simulación de redes en Cisco Packet Tracer para asegurar que las sedes de Xela, Mixco y Escuintla tengan una latencia mínima. Supervisa la configuración de los servidores virtuales en la nube y la redundancia de conectividad.
+- **ERP**: ERPNext (Frappe Framework)
+- **Business Intelligence**: Apache Superset
+- **Base de Datos**: MariaDB
+- **Backend**: Python + Frappe
+- **Integración**: REST API + Webhooks
+- **Infraestructura**: Frappe Cloud (plan educativo) / VPS
+- **Documentación**: Markdown + GitHub
 
-● Desarrollador / Configurador ERP (Cécily Guinea): Especialista en la arquitectura de procesos de negocio. Su función es traducir los flujos operativos de la empresa (Ventas, Compras, Inventarios) a parámetros del sistema. Es el encargado de integrar los módulos de facturación interna y logística.
+---
 
-● Analista de Business Intelligence (Alfredo Vicente): Su rol es crítico para la toma de decisiones. Se encarga de la extracción y limpieza de datos de los múltiples archivos de Excel actuales y del diseño de dashboards para visualizar la rentabilidad de las rutas.
+## 📁 Estructura del Repositorio
 
-● Especialista en Seguridad Informática (Beatríz Vicente): Responsable de la integridad y disponibilidad de los datos. Define los protocolos de respaldo automatizados, el cifrado de la base de datos centralizada y la implementación de túneles VPN para el acceso remoto seguro.
+```bash
+distribuidora-alimentos/
+├── docs/                    # Documentación completa del proyecto
+├── erpnext/                 # Configuraciones y módulos de ERPNext
+├── bi/                      # Dashboards Superset + consultas
+├── integracion/             # APIs, Postman y endpoints
+├── seguridad/               # Backups y políticas de seguridad
+├── screenshots/             # Evidencias y capturas
+└── README.md
