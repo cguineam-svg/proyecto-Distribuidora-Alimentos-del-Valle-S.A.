@@ -2,9 +2,11 @@
 
 # Tecnologías utilizadas
 ERPNext / Frappe
-Sistema Business Intelligence: Apache Superset
-Sistema WMS: Gestión de Almacenes (Integrado en ERPNext)
-Sistema CRM: Gestión de Relación con Clientes (Módulo ERPNext)
+● Sistema Business Intelligence: Apache Superset
+
+● Sistema WMS: Gestión de Almacenes (Integrado en ERPNext)
+
+● Sistema CRM: Gestión de Relación con Clientes (Módulo ERPNext)
 
 # Instrucciones de instalación paso a paso 
 
