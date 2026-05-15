@@ -59,12 +59,9 @@ Manual de Instalación
 Manual de Usuario
 
 
-🔗 Enlaces Importantes
-
-Jira del Proyecto: Timeline - DADVS
-Repositorio: GitHub
-
+🔗 Enlace  Importante
+Jira del Proyecto: https://miumg-team-fantasticos.atlassian.net/jira/software/projects/DADVS/boards/37
 
 Universidad Mariano Gálvez de Guatemala
 Campus Quetzaltenango – Facultad de Ingeniería en Sistemas
-Abril 2026
+JUNIO 2026
