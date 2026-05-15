@@ -1,13 +1,11 @@
 #  Distribuidora Alimentos del Valle S.A. - ERPNext
 **Proyecto Final**  
 **Implementación de Sistema ERP*
+
 ![Status](https://img.shields.io/badge/Status-Fase%201%20Completada-success?style=flat)
 ![ERPNext](https://img.shields.io/badge/ERP-ERPNext-00A651)
 ![Superset](https://img.shields.io/badge/BI-Apache%20Superset-FF4F4F)
 ![UMG](https://img.shields.io/badge/Universidad-Mariano%20Gálvez-blue)
-
-*
-
 ---
 
 ## Descripción del Proyecto
