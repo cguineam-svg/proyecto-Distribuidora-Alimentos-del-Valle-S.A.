@@ -1,3 +1,4 @@
+```bash
 Gráfico 1: Stock por Categoría
 Primero, crea un dataset SQL personalizado:
 
@@ -48,3 +49,7 @@ Tipo de gráfico	Pie Chart
 Pie Chart	status
 Metric	COUNT(*)
 Filtro	status NOT IN ('Closed', 'Cancelled')
+```
+---
+<img width="1896" height="896" alt="Captura de pantalla 2026-05-15 232402" src="https://github.com/user-attachments/assets/b5121d4f-3ae1-4871-83cb-686859d80708" />
+
