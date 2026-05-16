@@ -1,3 +1,4 @@
+```bash
 Gráfico 1: Ventas por Vendedor
 Configuración	Valor
 Dataset	tabSales Order
@@ -27,4 +28,9 @@ Tipo de gráfico	Big Number
 Time Column	transaction_date
 Metric	COUNT(*)
 Time Grain	Month
+
+```
+---
+
+<img width="1891" height="836" alt="image" src="https://github.com/user-attachments/assets/18adb37c-652b-45ff-9ccd-e26f1c0830b2" />
 
