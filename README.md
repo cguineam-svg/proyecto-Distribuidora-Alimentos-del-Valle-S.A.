@@ -33,11 +33,11 @@ El sistema centraliza la gestión de inventarios multi-bodega, ventas, compras, 
 
 | Nombre                          | Rol                                 |
 |--------------------------------|-------------------------------------|
-| Cécily Karina Guinea Mejía     | Desarrollador / Configuradora ERP   |
-| Alfredo Joselito Vicente García| Analista de Business Intelligence   |
-| Hugo Emmanuel Rivera Guzmán    | Arquitecto Técnico                  |
-| Kevin Roberto Lacán            | Project Manager                     |
-| Beatríz Vicente Jiménez        | Especialista en Seguridad           |
+| Cécily Guinea     | Desarrollador / Configuradora ERP   |
+| Alfredo Vicente   | Analista de Business Intelligence   |
+| Hugo Rivera       | Arquitecto Técnico                  |
+| Kevin Lacán       | Project Manager                     |
+| Beatríz Vicente   | Especialista en Seguridad           |
 
 ---
 
