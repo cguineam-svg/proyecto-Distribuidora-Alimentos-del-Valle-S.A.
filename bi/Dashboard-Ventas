@@ -1,0 +1,29 @@
+Gráfico 1: Ventas por Vendedor
+Configuración	Valor
+Dataset	tabSales Order
+Tipo de gráfico	Bar Chart
+Series	owner
+Metric	COUNT(*)
+
+Gráfico 2: Evolución Diaria de Ventas
+Configuración	Valor
+Dataset	tabSales Order
+Tipo de gráfico	Line Chart
+Time Column	transaction_date
+Time Grain	Day
+Metric	COUNT(*)
+
+Gráfico 3: Ventas por Cliente (Tabla)
+Configuración	Valor
+Dataset	tabSales Order
+Tipo de gráfico	Table
+Columns	customer, COUNT(*), SUM(grand_total)
+Sort by	COUNT(*) descending
+
+Gráfico 4: Órdenes por Mes (Big Number)
+Configuración	Valor
+Dataset	tabSales Order
+Tipo de gráfico	Big Number
+Time Column	transaction_date
+Metric	COUNT(*)
+Time Grain	Month
