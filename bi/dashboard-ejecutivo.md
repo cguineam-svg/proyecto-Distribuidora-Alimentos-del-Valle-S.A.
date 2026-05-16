@@ -1,3 +1,4 @@
+```bash
 Gráfico 1: Ventas por Mes
 Configuración	Valor
 Dataset	tabSales Order
@@ -30,3 +31,7 @@ Tipo de gráfico	Bar Chart
 Series	item_code
 Metric	SUM(qty)
 Limit	10
+```
+---
+<img width="1898" height="917" alt="Captura de pantalla 2026-05-15 231952 (1)" src="https://github.com/user-attachments/assets/5a1505de-cb05-4e75-8de5-90b4e5a52b6a" />
+
