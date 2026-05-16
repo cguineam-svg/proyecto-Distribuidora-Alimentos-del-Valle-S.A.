@@ -43,7 +43,7 @@ El sistema centraliza la gestión de inventarios multi-bodega, ventas, compras, 
 
 ## Instrucciones de Instalación
 
-Consulta el **[Manual Técnico Completo](docs/manual-tecnico.md)** para la instalación detallada.
+Consulta el **[Manual de instalación](docs/manual-instalacion.md)** para la instalación detallada.
 
 **Pasos principales:**
 
@@ -83,15 +83,13 @@ La API REST de ERPNext está disponible en:
 - `POST /api/resource/Sales Invoice` → Crear factura
 - `POST /api/method/erpnext.stock.utils.get_latest_stock_qty` → Stock en tiempo real
 
-**Documentación completa de APIs** → Ver **[Manual Técnico](docs/manual-tecnico.md)** (Sección 4)
+**Documentación completa de APIs** → Ver **[api documentacion ](integracion/api-documentacion.md)** (Sección 4)
 
 ---
 
 ## Documentación del Proyecto
 
-- **[Manual Técnico Completo](docs/manual-tecnico.md)** (Arquitectura, instalación, modelo de datos, APIs y seguridad)
-- **[Arquitectura Técnica](docs/arquitectura-tecnica.md)**
-- **[Business Case](docs/business-case.md)**
+- **[Manuales completos ](docs)** (Arquitectura, instalación, usuario)
 
 ---
 
