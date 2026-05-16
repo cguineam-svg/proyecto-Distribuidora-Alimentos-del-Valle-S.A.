@@ -102,4 +102,4 @@ La API REST de ERPNext está disponible en:
 
 **Universidad Mariano Gálvez de Guatemala**  
 **Campus Quetzaltenango – Facultad de Ingeniería en Sistemas**  
-**Junio 2026**
+**Mayo 2026**
