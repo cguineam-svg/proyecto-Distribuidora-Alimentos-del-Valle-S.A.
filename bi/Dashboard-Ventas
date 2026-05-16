@@ -27,3 +27,4 @@ Tipo de gráfico	Big Number
 Time Column	transaction_date
 Metric	COUNT(*)
 Time Grain	Month
+
