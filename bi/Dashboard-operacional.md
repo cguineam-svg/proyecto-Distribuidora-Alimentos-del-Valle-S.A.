@@ -51,5 +51,6 @@ Metric	COUNT(*)
 Filtro	status NOT IN ('Closed', 'Cancelled')
 ```
 ---
-<img width="1896" height="896" alt="Captura de pantalla 2026-05-15 232402" src="https://github.com/user-attachments/assets/b5121d4f-3ae1-4871-83cb-686859d80708" />
+<img width="1889" height="847" alt="Captura de pantalla 2026-05-15 235952 (1)" src="https://github.com/user-attachments/assets/00e9f180-2816-4091-bce4-3103bbd087f6" />
+
 
