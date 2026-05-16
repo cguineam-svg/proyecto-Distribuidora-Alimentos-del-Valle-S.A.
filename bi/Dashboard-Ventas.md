@@ -32,5 +32,6 @@ Time Grain	Month
 ```
 ---
 
-<img width="1891" height="836" alt="image" src="https://github.com/user-attachments/assets/18adb37c-652b-45ff-9ccd-e26f1c0830b2" />
+<img width="1902" height="902" alt="Captura de pantalla 2026-05-15 234122" src="https://github.com/user-attachments/assets/97c23f96-a4c9-4b30-9969-edd9433a4bb7" />
+
 
